@@ -1,0 +1,13 @@
+Coomandes base
+
+git init: renitialisation du depot
+git add all ou git add namefile: ajout des files
+git commit: commiter des modification apres apuyer sur echap deux poin w q: pour quiter l'editeur
+git log: voir l'historique
+git status: vois detail du project
+.gitignore: ignorer quelque files non important
+
+others
+
+git bush origine master: ajouter dans remote (github)
+git pull origine master: recuperer un projet dans (github)
