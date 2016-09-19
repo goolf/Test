@@ -1,0 +1,11 @@
+/*settings*/
+/*blue:    #181e64*/
+/*red:    #ff1744*/
+/*yellow:    #ffd31c*/
+
+body{
+    background: #f4f4f4;
+    padding-top: 60px;
+    font-family: georgia;
+    font-size: 16px;
+}
